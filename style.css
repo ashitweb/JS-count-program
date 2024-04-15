@@ -1,0 +1,51 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(200, 255, 20);
+    
+}
+
+section{
+    width: 100%;
+    
+}
+
+ .counter{
+    width: 1000px;
+    margin: auto;
+    margin-top: 150px;
+    text-align: center;
+    background-color: rgb(59, 93, 230);
+    padding: 20px 20px;
+    border: 1px solid white;
+    line-height: 2;
+    margin: auto;
+    
+margin-top: 100px;
+    box-shadow: 5px 5px;
+}
+
+#countlabel{
+    font-size: 100px;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+
+button{
+    color: white;
+    font-size: 22px;
+    width: 150px;
+    padding: 10px 15px;
+    background-color: rgb(43, 2, 248);
+} 
